@@ -40,5 +40,42 @@
 #### 課題
 - GitHub Actions, eslint
 - deploy環境の選定
-  - フロントエンドは Vercel、Netlify など
-  - バックエンドは Google Cloud Run、AWS、Render など
+  - Vercel、Netlify など
+
+#### 5/30
+#### やりたいこと
+- コーディング規約
+- GitHubルール
+- テスト計画
+- クラス図、アクテビティ図
+- デプロイ環境の選定
+- フロントエンドフレームワークについて
+
+#### やってきたこと
+- eslint、prettierを導入し、コードのフォーマットを可能にした。
+- huskyを導入し、コミットの際に自動的にコードがフォーマットされるようにした。
+- 技術スタック構成図を作成した。
+- ワイヤーフレームを作成した。
+
+#### やったこと
+- コーディング規約の決定。原則[AirBnb](https://mitsuruog.github.io/javascript-style-guide/)に則る。
+- [GitHubのルール](https://suwaru.tokyo/%E3%80%90%E5%BF%85%E9%A0%88%E3%80%91git%E3%82%B3%E3%83%9F%E3%83%83%E3%83%88%E3%81%AE%E6%9B%B8%E3%81%8D%E6%96%B9%E3%83%BB%E4%BD%9C%E6%B3%95%E3%80%90prefix-emoji%E3%80%91/)
+  - Git flow
+  - ブランチ名のプレフィクス
+  - issueへのリンク
+
+#### 直面した問題
+- huskyによるコミットの際のコードフォーマットが機能しなかった。
+pre-commitの実行権限が制限されていたので、実行権限を変更して解決
+
+### 課題
+- プルリクのテンプレートを作成
+- Reactの導入
+- クラス図、アクテビティ図
+- プロトタイプの作成 (Phaserの調査)
+- デプロイ環境の調査 (Vercel, Netlify, Heroku, etc.)
+  - 利便性、価格
+- テストツールの選定、導入
+- フロントエンドフレームワークの調査 (React, Next.js)
+- Tailwind CSSの調査
+- スプリントの計画
