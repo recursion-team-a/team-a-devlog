@@ -149,6 +149,7 @@ pre-commitの実行権限が制限されていたので、実行権限を変更�
     -app
     - components
     - model
+          - common
           - BlackJack
           - War
           - Speed
