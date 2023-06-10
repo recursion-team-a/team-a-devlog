@@ -177,15 +177,26 @@ pre-commitの実行権限が制限されていたので、実行権限を変更�
 
 #### やってきたこと
 - 基本クラスの作成
-- キャメルケース e.g. 'ExampleClass.ts'
+- ファイル名 e.g. 'ExampleClass.ts'
+- ディレクトリ名 e.g. 'exampleDirectory'
 
 #### やったこと
 - 次回の日程
   - 水曜日　14:00-16:00
   - 土曜日 10:00-12:00
+- 各自のタスク進捗状況を共有
+- jestについての計画
 
 #### 直面した問題
-- Next.jsとPhaser.jsの連携
+- [Next.jsとPhaser.jsの連携](https://github.com/recursion-team-a/card-games/issues#:~:text=1-,%E5%9F%BA%E6%9C%AC%E7%9A%84%E3%81%AA%E7%94%BB%E9%9D%A2%E9%81%B7%E7%A7%BB%206/9,-%2323%20opened%20last)
 - Tableクラス実装の続き
 
 ### 課題
+今週の目標
+ゲームとして最低限動かせる形
+
+- Tableクラスの実装 K
+- Phaser、Nextの連携 T
+- Playerクラスの修正 H
+- eslintとコーディング規約 K
+- jestの導入 T
