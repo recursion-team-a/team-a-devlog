@@ -237,6 +237,7 @@ pre-commitの実行権限が制限されていたので、実行権限を変更�
 ### 課題
 **Blackjack (2)、War (1)をゲームとして機能する形にする**
 - commitの際のテスト実行 K
+- class図にtableを反映 K
 - asset探し 6/15
 - Blackjack back H
 - Blackjack front T
