@@ -358,3 +358,32 @@ pre-commitの実行権限が制限されていたので、実行権限を変更�
 - チュートリアル　保留
 - SOUND 保留
 - フォント、アニメーション、ボタンの再配置　保留
+
+#### 6/28
+#### やりたいこと
+- やってきたことの共有
+- ミーティングの日程
+  - 水曜日 20:00~
+  - 土曜日 10:00~
+- 残りのタスク整理
+
+#### やってきたこと
+- リファクタリング
+- ios向けに調整
+- preloadScnene
+- CPU
+
+#### 課題
+- ボタン画像 https://soulofkiran.itch.io/pixel-art-wooden-gui-v1 T
+- トランプ画像 https://yuidust.itch.io/deck-of-cards K
+- チップ画像暫定　https://dani-maccari.itch.io/cute-cards-deck K
+- フォント、アニメーション、ボタンの再配置 T
+- SOUND T
+- blackjack dealer score H
+- ゲーム途中のエラーハンドリング H
+- ゲーム終了後のシーン(continue, menu) / betが尽きた時の処理 H
+- Phaser以外のUI、ルール内容 保留
+- electron K
+- 図表関係の更新 保留
+- テーブル画像の変更 保留
+- チュートリアル　保留
